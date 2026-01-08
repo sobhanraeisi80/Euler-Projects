@@ -14,6 +14,6 @@
 | 7 | 10 0001st Prime | [Solution](./7.py) |
 | 8 | Largest Product in a Series | [Solution](./8.py) |
 | 9 | Special Pythagorean Triplet | [Solution](./9.py) |
-| 10 | Summation of Primes | [Solution](./
+| 12 | Highly Divisible Triangular Number | [Solution](./highly_divisible_triangular_number.py) |
 ---
 *این پروژه به مرور زمان با یادگیری مفاهیم جدید آپدیت می‌شود.*
